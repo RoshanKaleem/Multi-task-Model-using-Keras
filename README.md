@@ -19,7 +19,7 @@ Task 2 : Identify the color of the hand drawn digit
 * The Original dataset was of hand-written digits in gray scale as shown:
 ![Screenshot (1)](images/originaldata.PNG)
 
-* We modified the existing data to have noise and the digits to be in Red or Green as shown:
+* Modified the existing data to have noise and the digits to be in Red or Green as shown:
 ![Screenshot (2)](images/generateddata.PNG)
 
 
