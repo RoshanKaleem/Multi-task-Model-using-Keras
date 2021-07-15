@@ -1,4 +1,7 @@
 # MULTI TASK MODEL USING KERAS
+## CODE:
+
+<a href="https://colab.research.google.com/drive/1Z4ENI2pZgzdA66k3ySQKnmoIh1R9KAia?usp=sharing" target='_blank'> COLAB LINK </a>
 
 ## Problem Statement
 
@@ -24,9 +27,7 @@ Task 2 : Identify the color of the hand drawn digit
 ## ARCHITECTURE
 ![Screenshot (3)](images/arcgitecture.png)
 
-## CODE:
 
-<a href="https://colab.research.google.com/drive/1Z4ENI2pZgzdA66k3ySQKnmoIh1R9KAia?usp=sharing" target='_blank'> COLAB LINK </a>
 
 ## Accuracy:
 
